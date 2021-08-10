@@ -1,4 +1,5 @@
 @import "css/reset.css";
+@import "assets/images";
 
 html,
 body {
@@ -6,7 +7,7 @@ body {
 }
 
 header {
-    background-image: url("../assets/images/image-header.jpeg");
+    background-image: url("assets/images/image-header.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -369,17 +370,17 @@ main {
                     }
 
                     .person-img-emily {
-                        background-image: url("assets/images/image-emily.jpeg");
+                        background-image: url("assets/images/image-emily.jpg");
                         border-radius: 50%;
                     }
 
                     .person-img-thomas {
-                        background-image: url("assets/images/image-thomas.jpeg");
+                        background-image: url("assets/images/image-thomas.jpg");
                         border-radius: 50%;
                     }
 
                     .person-img-jennie {
-                        background-image: url("assets/images/image-jennie.jpeg");
+                        background-image: url("assets/images/image-jennie.jpg");
                         border-radius: 50%;
                     }
 
