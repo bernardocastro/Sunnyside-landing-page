@@ -5,7 +5,7 @@ body {
 }
 
 header {
-  background-image: url("assets/images/image-header.jpg");
+  background-image: url("../assets/images/image-header.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -334,15 +334,15 @@ main .main-content .testimonials .people .person .person-img {
   width: 150px;
 }
 main .main-content .testimonials .people .person .person-img-emily {
-  background-image: url("assets/images/image-emily.jpg");
+  background-image: url("../assets/images/image-emily.jpg");
   border-radius: 50%;
 }
 main .main-content .testimonials .people .person .person-img-thomas {
-  background-image: url("assets/images/image-thomas.jpg");
+  background-image: url("../assets/images/image-thomas.jpg");
   border-radius: 50%;
 }
 main .main-content .testimonials .people .person .person-img-jennie {
-  background-image: url("assets/images/image-jennie.jpg");
+  background-image: url("../assets/images/image-jennie.jpg");
   border-radius: 50%;
 }
 main .main-content .testimonials .people .person .person-speech {
